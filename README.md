@@ -10,7 +10,7 @@
 	-	Lost Connection With Server
 	-	Score not increasing
 
-***
+***  
 ### Installation and Setup
 
 **Software Setup**
@@ -46,10 +46,11 @@ The game is installed with 2 configuration files  `settings.txt` and `Arduino.js
 6- Save the file and restart the game, and test it by playing one game, the Lights should turn off in sequence from Left to Right.
 
 
-
 <br>
-***
-### Troubleshooting
+
+***   
+
+###  Troubleshooting
 
 **Sensor Error**
 
