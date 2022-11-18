@@ -12,7 +12,10 @@
 	-	Upload Data Error
 	-	Lost Connection With Server
 	-	Player scores are unusual
-
+-	Adjustable Settings:
+	-	Game Duration
+	-	Score Multiplier
+	
 ***  
 ### Installation and Setup
 
@@ -126,3 +129,26 @@ The game is installed with 2 configuration files  `settings.txt` and `Arduino.js
 > 2- open `settings.txt` file and make sure that `scorePerGoal` is equal to 1.
 > 
 > 3- Contact support if issue persists. 
+
+<br>
+
+###  Adjustable Settings
+The following settings can be customized and tweaked through the `settings.txt` file located at `Documents/Github/FastFeet`
+
+**Game Duration**
+1. Locate the project files, should be under 
+Documents/Github/FastFeet
+2. Open settings.txt file
+3. Changing the “Timer” value will change how long the user can play the game 
+for
+4. Save settings.txt
+6. Launch the game
+
+**Score Multiplier**
+1. Locate the project files, should be under 
+Documents/Github/FastFeet
+2. Open settings.txt file
+3. Changing the “ScorePerGoal” value will change how much points are added when a player scores a goal
+5. Save settings.txt
+6. Launch the game
+
