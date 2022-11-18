@@ -2,13 +2,16 @@
 
 ### Contents
 
--	Installation and Setup
+-	Installation and Setup:
+	-	Software Setup
+	-	Hardware Installation
+
 -	Troubleshooting:
 	-	Sensor Error
 	-	Fetch Data Error
 	-	Upload Data Error
 	-	Lost Connection With Server
-	-	Score not increasing
+	-	Player scores are unusual
 
 ***  
 ### Installation and Setup
@@ -114,7 +117,7 @@ The game is installed with 2 configuration files  `settings.txt` and `Arduino.js
 <br>
 <br>
 
-**Player scores are incredibly High**
+**Player scores are unusual**
 > One or more player has very huge score i.e : 100 to 900, which can be an issue with the sensors ,or game configuration settings.
  
 *Solution:*
