@@ -4,6 +4,27 @@
 	{
 		"COM":"COM25",
 		"BaudRate":"9600"
+	},{
+		"COM":"",
+		"BaudRate":"9600"
+	},{
+		"COM":"",
+		"BaudRate":"9600"
+	},{
+		"COM":"",
+		"BaudRate":"9600"
+	},{
+		"COM":"",
+		"BaudRate":"9600"
+	},{
+		"COM":"",
+		"BaudRate":"9600"
+	},{
+		"COM":"",
+		"BaudRate":"9600"
+	},{
+		"COM":"",
+		"BaudRate":"9600"
 	}
     ]
 }
