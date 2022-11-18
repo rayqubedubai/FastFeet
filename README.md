@@ -48,7 +48,8 @@ The game is installed with 2 configuration files  `settings.txt` and `Arduino.js
 
 
 <br>
-###Troubleshooting
+***
+### Troubleshooting
 
 **Sensor Error**
 
