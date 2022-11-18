@@ -1,0 +1,9 @@
+{
+   "Arduinos": [
+	
+	{
+		"COM":"COM25",
+		"BaudRate":"9600"
+	}
+    ]
+}

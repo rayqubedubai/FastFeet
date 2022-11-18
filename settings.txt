@@ -1,0 +1,4 @@
+{
+"Timer":60,
+"ScorePerGoal":1
+}
