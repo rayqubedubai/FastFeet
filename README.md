@@ -1,6 +1,6 @@
-#FastFeet User Manual
+# FastFeet User Manual
 
-###Contents
+### Contents
 
 -	Installation and Setup
 -	Troubleshooting:
@@ -11,7 +11,7 @@
 	-	Score not increasing
 
 ***
-###Installation and Setup
+### Installation and Setup
 
 **Software Setup**
 The game is installed with 2 configuration files  `settings.txt` and `Arduino.json`, you can find them instaled at `Documents/Github/FastFeet`.   
@@ -29,16 +29,17 @@ The game is installed with 2 configuration files  `settings.txt` and `Arduino.js
 
 -	To configure the hardware sensors data, open `Arduino.json` with a text editor, and move to the `Hardware Installation` step below:
 
-**Hardware Installation**
+**Hardware Installation**  
 0- Unplug all the connected arduino sensors.  
-1- Connect the USB HUB to PC and PowerPlug.
-2- Connect **ONLY ONE** arduino device into the USB hub.
+1- Connect the USB HUB to PC and PowerPlug.  
+2- Connect **ONLY ONE** arduino device into the USB hub.  
 3- Open Device Manager and take note of the Port number (i.e COM25) as shown below :
 
-![alt text](README.md_files\Untitled.png)
+![Step3 Screenshot](README.md_files/Untitled.png)
+
 4- Go back to `Arduino.json` file and change the first record to be the following :
 
-![alt text](README.md_files\ss2.png)
+![Step4 Screenshot](README.md_files/ss2.png)
 
 5- Repeat the previous 2 steps by adding an arduino sensor *ONE AT A TIME* and writing the coresponding `Port number` *In The Order From Left To Right*.
 
