@@ -2,28 +2,22 @@
    "Arduinos": [
 	
 	{
-		"COM":"COM25",
+		"COM":"COM8",
 		"BaudRate":"9600"
 	},{
-		"COM":"",
+		"COM":"COM9",
 		"BaudRate":"9600"
 	},{
-		"COM":"",
+		"COM":"COM10",
 		"BaudRate":"9600"
 	},{
-		"COM":"",
+		"COM":"COM11",
 		"BaudRate":"9600"
 	},{
-		"COM":"",
+		"COM":"COM12",
 		"BaudRate":"9600"
 	},{
-		"COM":"",
-		"BaudRate":"9600"
-	},{
-		"COM":"",
-		"BaudRate":"9600"
-	},{
-		"COM":"",
+		"COM":"COM13",
 		"BaudRate":"9600"
 	}
     ]
